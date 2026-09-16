@@ -1,0 +1,25 @@
+// require MT>= 2.16.0
+{
+    name: ["列前景示例", ".colfg"],
+    ignoreCase: false,
+
+    styles: [
+    "blueFg", #FFFFFF#00FFFF, #FFFFFF#00FFFF
+    "greenFg", #000000#FFFF00, #000000#FFFF00
+],
+
+    contains: [
+        {
+            start: {match: /\|\|/},
+            end: {match: /(?m)$/},
+            contains: [
+                {
+                    match: /([\x00-\x7f]{4})([\x00-\x7f]{4})/,
+                    recordAllGroups: true,
+                    1: "blueFg",
+                    2: "greenFg"
+                }
+            ]
+        }
+    ]
+}
