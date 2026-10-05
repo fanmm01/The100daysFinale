@@ -230,6 +230,10 @@
       </note>
     </measure>
     <measure number="9">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>3</octave></pitch>
         <duration>30</duration>
@@ -261,6 +265,10 @@
       </note>
     </measure>
     <measure number="10">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>3</octave></pitch>
         <duration>180</duration>
@@ -280,6 +288,15 @@
       </note>
     </measure>
     <measure number="11">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>4</octave></pitch>
         <duration>90</duration>
@@ -322,6 +339,10 @@
       </note>
     </measure>
     <measure number="12">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -336,6 +357,10 @@
       </note>
     </measure>
     <measure number="13">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>2</octave></pitch>
         <duration>30</duration>
@@ -386,6 +411,10 @@
       </note>
     </measure>
     <measure number="15">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><alter>-1</alter><octave>2</octave></pitch>
         <duration>90</duration>
@@ -428,6 +457,10 @@
       </note>
     </measure>
     <measure number="16">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>2</octave></pitch>
         <duration>180</duration>
@@ -443,6 +476,10 @@
       </note>
     </measure>
     <measure number="17">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>3</octave></pitch>
         <duration>90</duration>
@@ -482,6 +519,10 @@
       </note>
     </measure>
     <measure number="18">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>180</duration>
@@ -503,6 +544,10 @@
       </note>
     </measure>
     <measure number="19">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -543,6 +588,10 @@
       </note>
     </measure>
     <measure number="20">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>3</octave></pitch>
         <duration>30</duration>
@@ -575,6 +624,10 @@
       </note>
     </measure>
     <measure number="21">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>2</octave></pitch>
         <duration>90</duration>
@@ -609,6 +662,10 @@
       </note>
     </measure>
     <measure number="22">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>3</octave></pitch>
         <duration>30</duration>
@@ -643,6 +700,10 @@
       </note>
     </measure>
     <measure number="23">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>2</octave></pitch>
         <duration>90</duration>
@@ -685,6 +746,10 @@
       </note>
     </measure>
     <measure number="24">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>2</octave></pitch>
         <duration>120</duration>
@@ -706,6 +771,10 @@
       </note>
     </measure>
     <measure number="25">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>2</octave></pitch>
         <duration>30</duration>
@@ -756,6 +825,10 @@
       </note>
     </measure>
     <measure number="27">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>2</octave></pitch>
         <duration>90</duration>
@@ -798,6 +871,10 @@
       </note>
     </measure>
     <measure number="28">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>1</octave></pitch>
         <duration>90</duration>
@@ -820,8 +897,12 @@
       </note>
     </measure>
     <measure number="29">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>G</step><octave>0</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>240</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -833,7 +914,7 @@
     </measure>
     <measure number="30">
       <note>
-        <pitch><step>G</step><octave>0</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>240</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -844,22 +925,26 @@
       </note>
     </measure>
     <measure number="31">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>C</step><octave>1</octave></pitch>
+        <pitch><step>C</step><octave>2</octave></pitch>
         <duration>90</duration>
         <voice>1</voice>
         <type>quarter</type>
         <dot/>
       </note>
       <note>
-        <pitch><step>A</step><alter>-1</alter><octave>0</octave></pitch>
+        <pitch><step>A</step><alter>-1</alter><octave>1</octave></pitch>
         <duration>15</duration>
         <voice>1</voice>
         <type>16th</type>
         <accidental>flat</accidental>
       </note>
       <note>
-        <pitch><step>A</step><alter>-1</alter><octave>0</octave></pitch>
+        <pitch><step>A</step><alter>-1</alter><octave>1</octave></pitch>
         <duration>60</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -870,7 +955,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>A</step><alter>-1</alter><octave>0</octave></pitch>
+        <pitch><step>A</step><alter>-1</alter><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -881,7 +966,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>A</step><octave>0</octave></pitch>
+        <pitch><step>A</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -891,7 +976,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>G</step><octave>0</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -901,7 +986,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>F</step><octave>0</octave></pitch>
+        <pitch><step>F</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -911,7 +996,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>G</step><octave>0</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -922,8 +1007,12 @@
       </note>
     </measure>
     <measure number="32">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>A</step><octave>0</octave></pitch>
+        <pitch><step>A</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -933,7 +1022,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>G</step><octave>0</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -943,7 +1032,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>F</step><octave>0</octave></pitch>
+        <pitch><step>F</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -953,7 +1042,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>G</step><octave>0</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -969,7 +1058,7 @@
         <type>half</type>
       </note>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -979,7 +1068,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -989,7 +1078,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -999,7 +1088,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>D</step><octave>0</octave></pitch>
+        <pitch><step>D</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -1010,8 +1099,12 @@
       </note>
     </measure>
     <measure number="33">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -1021,7 +1114,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -1031,7 +1124,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -1041,7 +1134,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>D</step><octave>0</octave></pitch>
+        <pitch><step>D</step><octave>1</octave></pitch>
         <duration>15</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -1058,25 +1151,29 @@
         <dot/>
       </note>
       <note>
-        <pitch><step>E</step><octave>0</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>D</step><octave>0</octave></pitch>
+        <pitch><step>D</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>0</octave></pitch>
+        <pitch><step>C</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
     </measure>
     <measure number="34">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>30</duration>
@@ -1106,6 +1203,10 @@
       </note>
     </measure>
     <measure number="35">
+      <harmony>
+        <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><alter>-1</alter><octave>1</octave></pitch>
         <duration>90</duration>
@@ -1143,6 +1244,10 @@
       </note>
     </measure>
     <measure number="36">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>1</octave></pitch>
         <duration>20</duration>
@@ -1186,6 +1291,10 @@
       </note>
     </measure>
     <measure number="37">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><alter>-1</alter><octave>0</octave></pitch>
         <duration>30</duration>
@@ -1231,6 +1340,10 @@
       </note>
     </measure>
     <measure number="38">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -1271,6 +1384,10 @@
       </note>
     </measure>
     <measure number="39">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -1292,6 +1409,10 @@
       </note>
     </measure>
     <measure number="40">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>0</octave></pitch>
         <duration>30</duration>
@@ -1324,6 +1445,10 @@
       </note>
     </measure>
     <measure number="41">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1352,6 +1477,10 @@
       </note>
     </measure>
     <measure number="42">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1392,6 +1521,10 @@
       </note>
     </measure>
     <measure number="43">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>0</octave></pitch>
         <duration>90</duration>
@@ -1424,6 +1557,10 @@
       </note>
     </measure>
     <measure number="44">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>0</octave></pitch>
         <duration>60</duration>
@@ -1461,6 +1598,15 @@
       </note>
     </measure>
     <measure number="45">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>0</octave></pitch>
         <duration>90</duration>
@@ -1488,6 +1634,10 @@
       </note>
     </measure>
     <measure number="46">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1528,6 +1678,10 @@
       </note>
     </measure>
     <measure number="47">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1568,6 +1722,10 @@
       </note>
     </measure>
     <measure number="48">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1608,6 +1766,10 @@
       </note>
     </measure>
     <measure number="49">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -1636,6 +1798,10 @@
       </note>
     </measure>
     <measure number="50">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1676,6 +1842,10 @@
       </note>
     </measure>
     <measure number="51">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>0</octave></pitch>
         <duration>60</duration>
@@ -1716,6 +1886,10 @@
       </note>
     </measure>
     <measure number="52">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -1756,6 +1930,10 @@
       </note>
     </measure>
     <measure number="53">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>0</octave></pitch>
         <duration>60</duration>
@@ -1789,6 +1967,10 @@
       </note>
     </measure>
     <measure number="54">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -1835,6 +2017,10 @@
       </note>
     </measure>
     <measure number="55">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>0</octave></pitch>
         <duration>60</duration>
@@ -1868,6 +2054,10 @@
       </note>
     </measure>
     <measure number="56">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>240</duration>
@@ -1880,6 +2070,10 @@
       </note>
     </measure>
     <measure number="57">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>240</duration>
@@ -1894,6 +2088,10 @@
       </note>
     </measure>
     <measure number="58">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>240</duration>
@@ -1908,6 +2106,10 @@
       </note>
     </measure>
     <measure number="59">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>180</duration>
@@ -1927,6 +2129,10 @@
       </note>
     </measure>
     <measure number="60">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>0</octave></pitch>
         <duration>60</duration>
@@ -1968,6 +2174,10 @@
       </note>
     </measure>
     <measure number="61">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>90</duration>
@@ -1995,6 +2205,10 @@
       </note>
     </measure>
     <measure number="62">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><alter>-1</alter><octave>0</octave></pitch>
         <duration>30</duration>
@@ -2046,6 +2260,15 @@
       </note>
     </measure>
     <measure number="64">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>60</duration>
@@ -2093,6 +2316,20 @@
       </note>
     </measure>
     <measure number="65">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>60</offset>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>1</octave></pitch>
         <duration>30</duration>
@@ -2144,6 +2381,10 @@
       </note>
     </measure>
     <measure number="66">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>1</octave></pitch>
         <duration>240</duration>
@@ -2175,6 +2416,10 @@
       </note>
     </measure>
     <measure number="68">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>1</octave></pitch>
         <duration>180</duration>
@@ -2190,6 +2435,10 @@
       </note>
     </measure>
     <measure number="69">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -2217,6 +2466,10 @@
       </note>
     </measure>
     <measure number="70">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>30</duration>
@@ -2248,6 +2501,10 @@
       </note>
     </measure>
     <measure number="71">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>180</duration>
@@ -2267,6 +2524,10 @@
       </note>
     </measure>
     <measure number="72">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>180</duration>
@@ -2282,6 +2543,25 @@
       </note>
     </measure>
     <measure number="73">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>60</offset>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>30</offset>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -2323,6 +2603,10 @@
       </note>
     </measure>
     <measure number="75">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -2356,6 +2640,10 @@
       </note>
     </measure>
     <measure number="76">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -2384,6 +2672,10 @@
       </note>
     </measure>
     <measure number="77">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -2412,6 +2704,15 @@
       </note>
     </measure>
     <measure number="78">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -2440,6 +2741,10 @@
       </note>
     </measure>
     <measure number="79">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -2480,6 +2785,10 @@
       </note>
     </measure>
     <measure number="80">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>0</octave></pitch>
         <duration>90</duration>
@@ -2501,6 +2810,15 @@
       </note>
     </measure>
     <measure number="81">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>0</octave></pitch>
         <duration>60</duration>
@@ -2534,6 +2852,15 @@
       </note>
     </measure>
     <measure number="82">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>0</octave></pitch>
         <duration>90</duration>
@@ -2561,6 +2888,15 @@
       </note>
     </measure>
     <measure number="83">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>0</octave></pitch>
         <duration>120</duration>
@@ -2601,8 +2937,12 @@
       </note>
     </measure>
     <measure number="84">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>G</step><octave>1</octave></pitch>
+        <pitch><step>C</step><octave>1</octave></pitch>
         <duration>120</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -2612,7 +2952,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>G</step><octave>1</octave></pitch>
+        <pitch><step>C</step><octave>1</octave></pitch>
         <duration>30</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -2622,27 +2962,31 @@
         </notations>
       </note>
       <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
+        <pitch><step>G</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>A</step><octave>1</octave></pitch>
+        <pitch><step>E</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
+        <pitch><step>G</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
     </measure>
     <measure number="85">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
-        <pitch><step>C</step><octave>2</octave></pitch>
+        <pitch><step>B</step><octave>0</octave></pitch>
         <duration>120</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -2652,7 +2996,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>C</step><octave>2</octave></pitch>
+        <pitch><step>B</step><octave>0</octave></pitch>
         <duration>30</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -2662,27 +3006,36 @@
         </notations>
       </note>
       <note>
-        <pitch><step>C</step><octave>2</octave></pitch>
+        <pitch><step>C</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
+        <pitch><step>B</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>C</step><octave>2</octave></pitch>
+        <pitch><step>C</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
     </measure>
     <measure number="86">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
-        <pitch><step>F</step><octave>2</octave></pitch>
+        <pitch><step>F</step><octave>1</octave></pitch>
         <duration>120</duration>
         <tie type="start"/>
         <voice>1</voice>
@@ -2692,7 +3045,7 @@
         </notations>
       </note>
       <note>
-        <pitch><step>F</step><octave>2</octave></pitch>
+        <pitch><step>F</step><octave>1</octave></pitch>
         <duration>30</duration>
         <tie type="stop"/>
         <voice>1</voice>
@@ -2702,112 +3055,49 @@
         </notations>
       </note>
       <note>
-        <pitch><step>E</step><octave>2</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>E</step><octave>2</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
       <note>
-        <pitch><step>D</step><octave>2</octave></pitch>
+        <pitch><step>D</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
     </measure>
     <measure number="87">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>dominant</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>F</step><octave>2</octave></pitch>
+        <pitch><step>F</step><octave>1</octave></pitch>
         <duration>60</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>E</step><octave>2</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>90</duration>
         <voice>1</voice>
         <type>quarter</type>
         <dot/>
       </note>
       <note>
-        <pitch><step>E</step><octave>2</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch><step>D</step><octave>2</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch><step>E</step><octave>2</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-    </measure>
-    <measure number="88">
-      <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
-        <duration>60</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <pitch><step>G</step><alter>1</alter><octave>1</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-        <accidental>sharp</accidental>
-      </note>
-      <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch><step>D</step><octave>2</octave></pitch>
-        <duration>60</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <pitch><step>B</step><octave>1</octave></pitch>
-        <duration>30</duration>
-        <voice>1</voice>
-        <type>eighth</type>
-      </note>
-    </measure>
-    <measure number="89">
-      <note>
-        <pitch><step>C</step><octave>2</octave></pitch>
-        <duration>60</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <pitch><step>A</step><octave>1</octave></pitch>
-        <duration>90</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
-      </note>
-      <note>
-        <pitch><step>C</step><octave>1</octave></pitch>
+        <pitch><step>E</step><octave>1</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2825,15 +3115,37 @@
         <type>eighth</type>
       </note>
     </measure>
-    <measure number="90">
+    <measure number="88">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>D</step><octave>1</octave></pitch>
+        <pitch><step>B</step><octave>0</octave></pitch>
         <duration>60</duration>
         <voice>1</voice>
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>D</step><octave>1</octave></pitch>
+        <pitch><step>G</step><alter>1</alter><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2845,13 +3157,90 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch><step>D</step><octave>1</octave></pitch>
+        <pitch><step>B</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
       </note>
+    </measure>
+    <measure number="89">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
+        <duration>60</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>0</octave></pitch>
+        <duration>90</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <dot/>
+      </note>
+      <note>
+        <pitch><step>C</step><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch><step>D</step><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch><step>E</step><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <measure number="90">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <note>
+        <pitch><step>D</step><octave>0</octave></pitch>
+        <duration>60</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch><step>D</step><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch><step>D</step><octave>0</octave></pitch>
+        <duration>60</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
+      <note>
+        <pitch><step>D</step><octave>0</octave></pitch>
+        <duration>30</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch><step>C</step><octave>0</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2864,6 +3253,15 @@
       </note>
     </measure>
     <measure number="91">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>60</offset>
+        <root><root-step>F</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>1</octave></pitch>
         <duration>30</duration>
@@ -2909,6 +3307,10 @@
       </note>
     </measure>
     <measure number="92">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>1</octave></pitch>
         <duration>60</duration>
@@ -2942,6 +3344,10 @@
       </note>
     </measure>
     <measure number="93">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -2982,6 +3388,10 @@
       </note>
     </measure>
     <measure number="94">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>2</octave></pitch>
         <duration>120</duration>
@@ -3022,6 +3432,10 @@
       </note>
     </measure>
     <measure number="95">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>2</octave></pitch>
         <duration>120</duration>
@@ -3062,6 +3476,10 @@
       </note>
     </measure>
     <measure number="96">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>2</octave></pitch>
         <duration>120</duration>
@@ -3102,6 +3520,10 @@
       </note>
     </measure>
     <measure number="97">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -3130,6 +3552,10 @@
       </note>
     </measure>
     <measure number="98">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -3170,6 +3596,10 @@
       </note>
     </measure>
     <measure number="99">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -3198,6 +3628,10 @@
       </note>
     </measure>
     <measure number="100">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>2</octave></pitch>
         <duration>120</duration>
@@ -3238,6 +3672,10 @@
       </note>
     </measure>
     <measure number="101">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>3</octave></pitch>
         <duration>60</duration>
@@ -3271,6 +3709,10 @@
       </note>
     </measure>
     <measure number="102">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>60</duration>
@@ -3304,6 +3746,10 @@
       </note>
     </measure>
     <measure number="103">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -3337,6 +3783,10 @@
       </note>
     </measure>
     <measure number="104">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>2</octave></pitch>
         <duration>30</duration>
@@ -3369,6 +3819,10 @@
       </note>
     </measure>
     <measure number="105">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -3402,6 +3856,10 @@
       </note>
     </measure>
     <measure number="106">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><alter>1</alter><octave>4</octave></pitch>
         <duration>60</duration>
@@ -3436,6 +3894,10 @@
       </note>
     </measure>
     <measure number="107">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>60</duration>
@@ -3469,6 +3931,15 @@
       </note>
     </measure>
     <measure number="108">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>45</duration>
@@ -3511,6 +3982,10 @@
       </note>
     </measure>
     <measure number="109">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>240</duration>
@@ -3523,6 +3998,15 @@
       </note>
     </measure>
     <measure number="110">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -3565,6 +4049,10 @@
       </note>
     </measure>
     <measure number="111">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>3</octave></pitch>
         <duration>120</duration>
@@ -3586,6 +4074,10 @@
       </note>
     </measure>
     <measure number="112">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>2</octave></pitch>
         <duration>30</duration>
@@ -3618,6 +4110,15 @@
       </note>
     </measure>
     <measure number="113">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>1</octave></pitch>
         <duration>90</duration>
@@ -3653,6 +4154,10 @@
       </note>
     </measure>
     <measure number="114">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -3693,6 +4198,10 @@
       </note>
     </measure>
     <measure number="115">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>1</octave></pitch>
         <duration>60</duration>
@@ -3726,6 +4235,15 @@
       </note>
     </measure>
     <measure number="116">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>1</octave></pitch>
         <duration>30</duration>
@@ -3758,6 +4276,15 @@
       </note>
     </measure>
     <measure number="117">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>2</octave></pitch>
         <duration>15</duration>
@@ -3799,6 +4326,15 @@
       </note>
     </measure>
     <measure number="118">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -3839,6 +4375,10 @@
       </note>
     </measure>
     <measure number="119">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>G</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -3879,6 +4419,10 @@
       </note>
     </measure>
     <measure number="120">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>1</octave></pitch>
         <duration>120</duration>
@@ -3919,6 +4463,10 @@
       </note>
     </measure>
     <measure number="121">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -3952,6 +4500,15 @@
       </note>
     </measure>
     <measure number="122">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>dominant</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -3985,6 +4542,10 @@
       </note>
     </measure>
     <measure number="123">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -4018,6 +4579,10 @@
       </note>
     </measure>
     <measure number="124">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -4051,6 +4616,10 @@
       </note>
     </measure>
     <measure number="125">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -4084,6 +4653,10 @@
       </note>
     </measure>
     <measure number="126">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>B</step><octave>1</octave></pitch>
         <duration>60</duration>
@@ -4117,6 +4690,10 @@
       </note>
     </measure>
     <measure number="127">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>2</octave></pitch>
         <duration>45</duration>
@@ -4157,6 +4734,15 @@
       </note>
     </measure>
     <measure number="128">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>2</octave></pitch>
         <duration>45</duration>
@@ -4178,7 +4764,7 @@
         <dot/>
       </note>
       <note>
-        <pitch><step>D</step><octave>2</octave></pitch>
+        <pitch><step>D</step><octave>3</octave></pitch>
         <duration>30</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -4197,6 +4783,15 @@
       </note>
     </measure>
     <measure number="129">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
+      <harmony>
+        <offset>120</offset>
+        <root><root-step>E</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>2</octave></pitch>
         <duration>45</duration>
@@ -4211,7 +4806,7 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch><step>G</step><octave>2</octave></pitch>
+        <pitch><step>G</step><octave>1</octave></pitch>
         <duration>90</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -4243,8 +4838,12 @@
       </note>
     </measure>
     <measure number="130">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
-        <pitch><step>B</step><octave>2</octave></pitch>
+        <pitch><step>C</step><octave>3</octave></pitch>
         <duration>45</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -4289,6 +4888,10 @@
       </note>
     </measure>
     <measure number="131">
+      <harmony>
+        <root><root-step>D</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>45</duration>
@@ -4335,6 +4938,10 @@
       </note>
     </measure>
     <measure number="132">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>2</octave></pitch>
         <duration>45</duration>
@@ -4381,6 +4988,10 @@
       </note>
     </measure>
     <measure number="133">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>3</octave></pitch>
         <duration>45</duration>
@@ -4427,6 +5038,10 @@
       </note>
     </measure>
     <measure number="134">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>3</octave></pitch>
         <duration>60</duration>
@@ -4471,6 +5086,10 @@
       </note>
     </measure>
     <measure number="135">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>4</octave></pitch>
         <duration>45</duration>
@@ -4517,6 +5136,10 @@
       </note>
     </measure>
     <measure number="136">
+      <harmony>
+        <root><root-step>F</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>C</step><octave>3</octave></pitch>
         <duration>45</duration>
@@ -4563,6 +5186,10 @@
       </note>
     </measure>
     <measure number="137">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>3</octave></pitch>
         <duration>45</duration>
@@ -4609,6 +5236,10 @@
       </note>
     </measure>
     <measure number="138">
+      <harmony>
+        <root><root-step>C</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>F</step><octave>2</octave></pitch>
         <duration>45</duration>
@@ -4655,6 +5286,10 @@
       </note>
     </measure>
     <measure number="139">
+      <harmony>
+        <root><root-step>G</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>D</step><octave>2</octave></pitch>
         <duration>15</duration>
@@ -4708,6 +5343,10 @@
       </note>
     </measure>
     <measure number="140">
+      <harmony>
+        <root><root-step>E</root-step></root>
+        <kind>major</kind>
+      </harmony>
       <note>
         <pitch><step>E</step><octave>2</octave></pitch>
         <duration>60</duration>
@@ -4728,6 +5367,10 @@
       </note>
     </measure>
     <measure number="141">
+      <harmony>
+        <root><root-step>A</root-step></root>
+        <kind>minor</kind>
+      </harmony>
       <note>
         <pitch><step>A</step><octave>1</octave></pitch>
         <duration>15</duration>
